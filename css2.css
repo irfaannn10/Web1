@@ -1,0 +1,19 @@
+
+
+     .heading
+
+             {
+            text-align: center;
+            color: purple;
+            font-size: 10px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            background-color:darkolivegreen ;
+
+            }
+   .skill{
+       display: inline-block;
+       padding: 5px;
+       background-color: darkred;
+       margin: 5px;
+       border-radius: 4px;
+       }
